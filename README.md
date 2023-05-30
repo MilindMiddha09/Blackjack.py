@@ -1,5 +1,5 @@
 # Blackjack.py
-The following code is made in python language with GUI using tkinter.
+The following game is made in python language with GUI using tkinter.
 This is a cards game named Blackjack.
 Here are the rules for this game.
 Players make their bets. 
